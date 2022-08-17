@@ -1,9 +1,0 @@
-{'index.html': ['pes1.html', 'kocka1.html'], 'pes1.html': ['pes2.html'], 'kocka1.html': ['index.html'], 'pes2.html': []}
-
-rozcvicka@tuzme.se
-verigilius@v.originale.cz
-kamil.patka@cdrail.cz
-doc.chocholousek@cvokhaus.cz
-xavier@bflmpsvz.cz
-arabela@bflmpsvz.cz
-genius@genius.com.tw.jp.cz
